@@ -1,0 +1,9 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Data and generated files: download the source, regenerate the rest with the scripts
+data/
+logs/
